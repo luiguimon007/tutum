@@ -1,0 +1,16 @@
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/dto/CalificacionDTO.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/controladores/CalificacionController.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/repositorios/ICalificacionRepositorio.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/servicios/impl/CalificacionServicioImpl.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/entidades/Alumno.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/entidades/Calificacion.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/dto/RespuestaGenerico.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/entidades/Materia.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/servicios/impl/AlumnoServicioImpl.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/repositorios/IMateriaRepositorio.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/servicios/IMateriaServicio.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/repositorios/IAlumnoRepositorio.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/SpringBootServicioRestTutumApplication.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/servicios/ICalificacionServicio.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/servicios/IAlumnoServicio.java
+/Users/luigui0305/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/spring-boot-servicio-rest-tutum/src/main/java/com/luigui/app/escuela/excepciones/ResourceNotFoundException.java
