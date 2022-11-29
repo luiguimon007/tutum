@@ -1,6 +1,6 @@
 
 {
-  "name": "heroku-springboot-tutum-app",
+  "name": "spring-boot-servicio-rest-tutum",
   "buildpacks": [
     {
       "url": "heroku/maven"
