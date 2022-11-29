@@ -3,7 +3,7 @@
   "name": "spring-boot-servicio-rest-tutum",
   "buildpacks": [
     {
-      "url": "heroku/maven"
+      "url": "heroku/gradle"
     }
   ]
 }
